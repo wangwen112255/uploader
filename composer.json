@@ -1,15 +1,15 @@
 {
-    "name": "wangwin/uploader",
+    "name": "once/uploader",
     "description": "laravel upload",
     "authors": [
         {
-            "name": "wangwin",
+            "name": "Once",
             "email": "1205483453@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Wangwin\\Uploader\\": "src/"
+            "Once\\Uploader\\": "src/"
         }
     },
     "require": {}

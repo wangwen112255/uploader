@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wangwin\Uploader;
+namespace Once\Uploader;
 
 
 use Illuminate\Contracts\Config\Repository;

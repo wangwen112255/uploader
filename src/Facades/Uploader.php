@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wangwin\Uploader\Facades;
+namespace Once\Uploader\Facades;
 
 
 use Illuminate\Support\Facades\Facade;
