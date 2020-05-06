@@ -12,5 +12,9 @@
             "Once\\Uploader\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "qiniu/php-sdk": "^7.2",
+        "upyun/sdk": "^3.4",
+        "aliyuncs/oss-sdk-php": "^2.3"
+    }
 }
